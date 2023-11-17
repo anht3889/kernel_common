@@ -2790,6 +2790,8 @@
   vunmap
   vzalloc
   vzalloc_node
+  wait_for_common
+  wait_for_common_io
   wait_for_completion
   wait_for_completion_interruptible
   wait_for_completion_interruptible_timeout
